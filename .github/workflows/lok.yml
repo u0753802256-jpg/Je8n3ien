@@ -1,4 +1,4 @@
-name: RDP
+name: lok
 on:
   workflow_dispatch:
 jobs:
