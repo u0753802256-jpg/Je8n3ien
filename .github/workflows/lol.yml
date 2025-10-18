@@ -1,4 +1,4 @@
-name: loo
+name: lol
 on:
   workflow_dispatch:
 jobs:
